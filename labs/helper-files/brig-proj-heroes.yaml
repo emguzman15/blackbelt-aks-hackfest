@@ -4,7 +4,7 @@ cloneURL: "https://github.com/emguzman15/blackbelt-aks-hackfest"
 sharedSecret: "create-something-super-secret"
 # MAKE SURE YOU CHANGE THIS. It's basically a password
 github:
-  token: "REPLACE"
+  token: "f56123e277945e9e84b6790fae38f81967e0d51d"
 secrets:
   acrServer: containerforbootcamp.azurecr.io
   acrUsername: containerforbootcamp
