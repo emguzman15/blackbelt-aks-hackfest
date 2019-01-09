@@ -1,0 +1,12 @@
+project: "emguzman15/blackbelt-aks-hackfest"
+repository: "github.com/emguzman15/blackbelt-aks-hackfest"
+cloneURL: "https://github.com/emguzman15/blackbelt-aks-hackfest"
+sharedSecret: "create-something-super-secret"
+# MAKE SURE YOU CHANGE THIS. It's basically a password
+github:
+  token: "REPLACE"
+secrets:
+  acrServer: containerforbootcamp.azurecr.io
+  acrUsername: containerforbootcamp
+  acrPassword: "V5rlVJGG4CE78ZatpiO=6Cb8SDohiUFy"
+vcsSidecar: "deis/git-sidecar:v0.15.0"
